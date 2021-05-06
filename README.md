@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shredder4488
+- 👋 Hi, I’m Anchit Agarwal
 - 👀 I’m interested in Data science projects
 - 🌱 I’m currently learning concepts of machine learning and deep learning
 - 💞️ I’m looking to collaborate on data science projects 
